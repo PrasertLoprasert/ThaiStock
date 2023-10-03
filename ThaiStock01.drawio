@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T04:07:58.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="E3EaRy79kVRiz_rEIJVo" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T04:13:12.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="_ecnZDNtFgnBjV_XyKcM" version="22.0.1" type="github">
   <diagram name="Page-1" id="z79d51Ybedijs8ZLjOTR">
     <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,6 +49,42 @@
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-20" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="65" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-23" target="hEN5tcbq8w8zBthy9bES-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-23" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="9" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-26" value="รับ HTML มา" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="74" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="154" width="140" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="hEN5tcbq8w8zBthy9bES-30" target="hEN5tcbq8w8zBthy9bES-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-30" value="ดึงตารางที่ต้องการจาก HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="174" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="hEN5tcbq8w8zBthy9bES-32" target="hEN5tcbq8w8zBthy9bES-33" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-32" value="ตั้งชื่อ column ใหม่" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="284" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-33" value="set index เป็นชื่อหุ้น" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="hEN5tcbq8w8zBthy9bES-36" target="hEN5tcbq8w8zBthy9bES-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-35" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-36" value="ส่งตารางที่จัดการแล้วออกมา" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
