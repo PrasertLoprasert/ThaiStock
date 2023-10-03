@@ -1,46 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T04:05:40.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="_I_RoTz5Q4RUpFWANikt" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T04:07:58.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="E3EaRy79kVRiz_rEIJVo" version="22.0.1" type="github">
   <diagram name="Page-1" id="z79d51Ybedijs8ZLjOTR">
     <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hEN5tcbq8w8zBthy9bES-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="140" height="310" as="geometry" />
+          <mxGeometry x="10" y="154" width="140" height="310" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-1" target="hEN5tcbq8w8zBthy9bES-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="100" as="targetPoint" />
+            <mxPoint x="80" y="64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-1" value="เริ่มต้น" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="4" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-4" target="hEN5tcbq8w8zBthy9bES-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-4" value="เปิด Website SET50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="174" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-7" target="hEN5tcbq8w8zBthy9bES-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-7" value="Link website &lt;br&gt;SET50" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="74" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-9" target="hEN5tcbq8w8zBthy9bES-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-9" value="Click ให้แสดงผลครบทุกหุ้น" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="284" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hEN5tcbq8w8zBthy9bES-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-11" target="hEN5tcbq8w8zBthy9bES-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hEN5tcbq8w8zBthy9bES-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-11" target="hEN5tcbq8w8zBthy9bES-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="484" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-11" value="ดึง HTML ออกมา" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hEN5tcbq8w8zBthy9bES-13" target="hEN5tcbq8w8zBthy9bES-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hEN5tcbq8w8zBthy9bES-13" value="ส่ง HTML ออกมาเพื่อสกัดข้อมูล" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEN5tcbq8w8zBthy9bES-20" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="65" y="560" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
